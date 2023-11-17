@@ -1,0 +1,85 @@
+.box {
+    width: 70px;
+    height: 70px;
+    background-color: darkseagreen;
+    position: absolute;
+    left: 100px;
+    top: 90px;
+}
+
+.bg1 {
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    height: 42px;
+    width: 70px;
+    border-radius: 150px 150px 0 0;
+    background-color: salmon;
+}
+
+.bg2 {
+    position: absolute;
+    top: 105px;
+    left: 156px;
+    height: 42px;
+    width: 70px;
+    border-radius: 150px 150px 0 0;
+    background-color: green;
+    rotate: 90deg;
+}
+
+.bg3 {
+    position: absolute;
+    top: 160px;
+    left: 100px;
+    height: 42px;
+    width: 70px;
+    border-radius: 150px 150px 0 0;
+    background-color: hotpink;
+    rotate: 180deg;
+}
+
+.bg4 {
+    position: absolute;
+    top: 105px;
+    left: 45px;
+    height: 42px;
+    width: 70px;
+    border-radius: 150px 150px 0 0;
+    background-color: darkcyan;
+    rotate: 270deg;
+}
+
+
+
+
+/* .bg3 {
+    position: absolute;
+    top: 44%;
+    left: 50%;
+    height: 42px;
+    width: 70px;
+    border-radius: 150px 150px 0 0;
+    background-color: green;
+}
+
+.bg4 {
+    position: absolute;
+    top: 44%;
+    left: 50%;
+    height: 42px;
+    width: 70px;
+    border-radius: 150px 150px 0 0;
+    background-color: green;
+}
+
+.bg5 {
+    position: absolute;
+    top: 50%;
+    right:50%;
+    height: 55px;
+    width: 40px;
+    border-top-left-radius: 150px;
+    border-bottom-left-radius: 150px;
+    background: purple;
+} */
